@@ -1,1 +1,2 @@
 Este es el contenido de mi primer archivo
+Editamos el contenido del documento en Visual Studio
